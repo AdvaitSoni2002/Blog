@@ -1,0 +1,15 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "local_uri": "mysql://root:@localhost/codeblog",
+      "prod_uri":"mysql://root:@localhost/codeblog",
+      "fb_url":"https://www.instagram.com/advaitsoni/",
+      "tw_url":"https://twitter.com/AdvaitSoni3",
+      "gh_url": "https://github.com/AdvaitSoni2002"
+      
+  
+  
+    }
+  
+  }
